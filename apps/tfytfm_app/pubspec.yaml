@@ -7,6 +7,11 @@ environment:
   sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
+  tfytfm_core:
+    path: ../../packages/tfytfm_core
+  tfytfm_ui:
+    path: ../../packages/tfytfm_ui
+
   bloc: ^8.1.2
   flutter:
     sdk: flutter
