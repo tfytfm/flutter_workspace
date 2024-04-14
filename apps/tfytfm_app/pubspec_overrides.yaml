@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: tfytfm_core,tfytfm_ui
+dependency_overrides:
+  tfytfm_core:
+    path: ../../packages/tfytfm_core
+  tfytfm_ui:
+    path: ../../packages/tfytfm_ui

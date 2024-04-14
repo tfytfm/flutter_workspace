@@ -3,7 +3,6 @@ import 'package:tfytfm_ui/tfytfm_ui.dart';
 import 'package:flutter/services.dart';
 
 class TFYTFMTheme {
-
   /// Light Theme example based on Material 2 Design.
   ThemeData get lightTheme {
     return ThemeData(
@@ -424,5 +423,4 @@ class TFYTFMTheme {
       ),
     );
   }
-
 }

@@ -152,7 +152,7 @@ class _ColorTextContainer extends StatelessWidget {
         horizontal: TFYTFMSpacing.lg * 2,
         vertical: TFYTFMSpacing.xs,
       ),
-      width: TFYTFMSpacing.spaceUnit*100,
+      width: TFYTFMSpacing.spaceUnit * 100,
       height: TFYTFMSpacing.xxlg,
       decoration: BoxDecoration(
         color: color,

@@ -9,7 +9,7 @@ extension ThemeX on ThemeData {
     if (isDarkMode) {
       return TFYTFMIconsDark();
     } else {
-      return  TFYTFMIconsLight();
+      return TFYTFMIconsLight();
     }
   }
 }

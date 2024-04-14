@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/tfytfm_ui/gallery/melos_gallery.iml" filepath="$PROJECT_DIR$/packages/tfytfm_ui/gallery/melos_gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/tfytfm_app/melos_tfytfm_app.iml" filepath="$PROJECT_DIR$/apps/tfytfm_app/melos_tfytfm_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/tfytfm_core/melos_tfytfm_core.iml" filepath="$PROJECT_DIR$/packages/tfytfm_core/melos_tfytfm_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/tfytfm_ui/melos_tfytfm_ui.iml" filepath="$PROJECT_DIR$/packages/tfytfm_ui/melos_tfytfm_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_stream_chat_flutter.iml" filepath="$PROJECT_DIR$/melos_stream_chat_flutter.iml" />
+    </modules>
+  </component>
+</project>

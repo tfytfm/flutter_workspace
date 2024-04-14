@@ -12,7 +12,7 @@ class TFYTFMOutlinedButton extends StatelessWidget {
     this.borderColor,
     this.icon,
   });
-  
+
   /// Primary button which background color is the primary color of the theme
   const TFYTFMOutlinedButton.primary({
     super.key,

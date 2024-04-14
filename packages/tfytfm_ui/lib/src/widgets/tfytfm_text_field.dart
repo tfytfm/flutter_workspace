@@ -3,8 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:tfytfm_ui/tfytfm_ui.dart';
 
 class TFYTFMTextField extends StatelessWidget {
-
-    const TFYTFMTextField({
+  const TFYTFMTextField({
     super.key,
     this.initialValue,
     this.autoFillHints,
@@ -25,7 +24,7 @@ class TFYTFMTextField extends StatelessWidget {
 
   /// A text field component based on material [TextFormField] widget which
   /// extends TextField with email icon and validates input type.
-   const TFYTFMTextField.emailTextField({
+  const TFYTFMTextField.emailTextField({
     super.key,
     this.initialValue,
     this.controller,
@@ -52,9 +51,9 @@ class TFYTFMTextField extends StatelessWidget {
         ),
         autocorrect = false;
 
-    /// A password text field component based on material [TextFormField] widget which
-    /// extends TextField which obscures the text
-   const TFYTFMTextField.passwordTextField({
+  /// A password text field component based on material [TextFormField] widget which
+  /// extends TextField which obscures the text
+  const TFYTFMTextField.passwordTextField({
     super.key,
     this.initialValue,
     this.controller,
@@ -72,8 +71,7 @@ class TFYTFMTextField extends StatelessWidget {
         obscureText = true,
         autocorrect = false;
 
-
- /// A value to initialize the field to.
+  /// A value to initialize the field to.
   final String? initialValue;
 
   /// List of auto fill hints.

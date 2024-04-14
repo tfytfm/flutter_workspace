@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tfytfm_ui/tfytfm_ui.dart';
 
-
 //extension for font weights
 
 abstract class TFYTFMTextStyle {
@@ -105,5 +104,4 @@ abstract class TFYTFMTextStyle {
     height: 1.45,
     letterSpacing: 0.5,
   );
-
 }
