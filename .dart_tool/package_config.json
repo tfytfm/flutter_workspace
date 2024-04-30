@@ -8,6 +8,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "archive",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/archive-3.4.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "args",
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/args-2.5.0",
       "packageUri": "lib/",
@@ -32,6 +38,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "checked_yaml",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/checked_yaml-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cli_completion",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/cli_completion-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "cli_launcher",
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/cli_launcher-0.3.1",
       "packageUri": "lib/",
@@ -54,6 +72,30 @@
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/conventional_commit-0.6.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "file",
@@ -92,8 +134,38 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "js",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/js-0.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "json_annotation",
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/json_annotation-4.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "mason",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/mason-0.1.0-dev.52",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "mason_api",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/mason_api-0.1.0-dev.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "mason_cli",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/mason_cli-0.1.0-dev.53",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "mason_logger",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/mason_logger-0.2.12",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -130,6 +202,12 @@
     {
       "name": "platform",
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/platform-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/pointycastle-3.8.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -224,8 +302,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "watcher",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/watcher-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "web",
       "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/web-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/owqlo/.pub-cache/hosted/pub.dev/win32-5.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -248,7 +338,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-04-14T04:02:07.480689Z",
+  "generated": "2024-04-14T04:33:55.637835Z",
   "generator": "pub",
-  "generatorVersion": "3.2.3"
+  "generatorVersion": "3.3.3"
 }
