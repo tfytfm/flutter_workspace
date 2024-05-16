@@ -1,16 +1,14 @@
 name: tfytfm_app
 description: TFYTFM project
-version: 1.0.0+1
+version: 1.0.0
 publish_to: none
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
-  tfytfm_core:
-    path: ../../packages/tfytfm_core
-  tfytfm_ui:
-    path: ../../packages/tfytfm_ui
+  tfytfm_core: ^0.1.0
+  tfytfm_ui: ^0.1.0
 
   bloc: ^8.1.2
   flutter:
